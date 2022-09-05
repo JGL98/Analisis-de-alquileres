@@ -9,4 +9,4 @@ El mismo se estructura de la siguiente forma:
 3. Análisis exploratorio.
 4. Gráfico interactivo.
 
-Se adjunta un html con todo el proceso seguido. 
+Se adjunta un html con todo el proceso seguido, así como el código en un rmd.
