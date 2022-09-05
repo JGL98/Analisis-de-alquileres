@@ -8,3 +8,5 @@ El mismo se estructura de la siguiente forma:
 2. Lectura y limpieza de los datos.
 3. Análisis exploratorio.
 4. Gráfico interactivo.
+
+Se adjunta un html con todo el proceso seguido. 
